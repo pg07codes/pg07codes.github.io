@@ -1360,6 +1360,7 @@ header .logo a {
 }
 .intro-content .intro-position span::after {
 	content: "|";
+	font-weight: bolder;
 	text-align: center;
 	display: inline-block;
 	padding: 0 8px 0 14px;

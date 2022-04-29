@@ -1,5 +1,5 @@
 # Resume
 ```
 - it is the source code of my resume
-- built using template from styleshout.com
+- quickly built using template from the world wide web
 ```
